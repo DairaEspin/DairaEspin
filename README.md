@@ -1,6 +1,7 @@
-<div id="header" align="center"/>
- <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="200" />
+<div id="header" align="center">
+ <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif"/>
   <h1 align="center">Hi there I'm Daira Jazmin Espinoza👋 </h1>
+   <h3 align="center">Full Stack Developer</h3>
 
 
 
